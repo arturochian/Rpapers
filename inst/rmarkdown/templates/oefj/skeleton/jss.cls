@@ -4,10 +4,10 @@
 \def\filename{jss}
 \def\filedate{2013/04/06}
 %%
-%% Package `jss' to use with LaTeX2e for JSS publications (http://www.jstatsoft.org/)
+%% Package `jss' to use with LaTeX2e for JSS publications (http://keigroup.wix.com/keigroup#!publicaciones/c17pr)
 %% License: GPL-2
 %% Copyright: (C) Achim Zeileis
-%% Please report errors to Achim.Zeileis@R-project.org
+%% Please report errors to arturo.chian@gmail.con
 %%
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{jss}[\filedate\space\fileversion\space jss class by Achim Zeileis]
@@ -227,10 +227,10 @@
     \vspace{.1\baselineskip}
     {\fontfamily{pzc} \fontsize{13}{15} \selectfont Journal of Open Economics and Financials Research}
     \hfill
-    \url{http://www.jstatsoft.org/}\\ \nopagebreak
+    \url{http://keigroup.wix.com/keigroup#!publicaciones/c17pr/}\\ \nopagebreak
     published by the American Statistical Association
     \hfill
-    \url{http://www.amstat.org/}\\[.3\baselineskip] \nopagebreak
+    \url{http://economia.unmsm.edu.pe/}\\[.3\baselineskip] \nopagebreak
     {Volume~\@Volume, \@Seriesname~\@Issue}
     \hfill
     \@Firstdate\\ \nopagebreak
@@ -258,7 +258,7 @@
    {\fontfamily{pzc} \fontsize{28}{32} \selectfont Journal of Open Economics and Financials Research}
    \vfill
    {\it \small \@Month{} \@Year, Volume~\@Volume, \@Seriesname~\@Issue.%
-            \hfill \href{http://www.jstatsoft.org/}{http://www.jstatsoft.org/}}}\\[0.1cm]
+            \hfill \href{http://economia.unmsm.edu.pe/}{http://economia.unmsm.edu.pe/}}}\\[0.1cm]
      \hrule height 3pt}}
 \if@review
   \renewcommand{\maketitle}{
