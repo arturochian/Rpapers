@@ -5,7 +5,7 @@ author:
     address: >
       First line
       Second line
-    email: name@company.com
+    email: name@unmsm.com
     url: http://economia.unmsm.edu.pe/
   - name: Segundo Autor
     affiliation: FCE UNMSM
@@ -25,19 +25,19 @@ output: rticles::jss_article
 
 # Introduction
 
-This template demonstrates some of the basic latex you'll need to know to create a JSS article.
+Esta plantilla muestra lo fácil que hacer un paper con R sin tener un gran conocimiento de LATEX.
 
-## Code formatting
+## Formatos
 
-Don't use markdown, instead use the more precise latex commands:
+Puedes usar algunos comandos de latex:
 
-* \proglang{Java}
-* \pkg{plyr}
-* \code{print("abc")}
+* \proglang{BCRP}
+* \pkg{BCRP}
+* \code{print("BCRP")}
 
-# R code
+# R script
 
-Can be inserted in regular R markdown blocks.
+Pueden ser insetados facilmente como en Rmarkdown.
 
 ```{r}
 x <- 1:10
