@@ -1,26 +1,23 @@
 ---
 author:
-  - name: FirstName LastName
-    affiliation: University/Company
+  - name: Primer_nombre Apellidos
+    affiliation: FCE UNMSM
     address: >
       First line
       Second line
     email: name@company.com
     url: http://rstudio.com
-  - name: Second Author
-    affiliation: Affiliation
+  - name: Segundo Autor
+    affiliation: FCE UNMSM
 title:
-  formatted: "A Capitalized Title: Something about a Package \\pkg{foo}"
-  # If you use tex in the formatted title, also supply version without
-  plain:     "A Capitalized Title: Something about a Package foo"
-  # For running headers, if needed
-  short:     "\\pkg{foo}: A Capitalized Title"
+  formatted: "Un análisis a la banca con el paquete \\pkg{BCRP}"
+  # Escriba comentarios aquí, no se visualizarán...
+ 
 abstract: >
-  The abstract of the article.
+  Para el abstract, por favor usar inglés y español.
 keywords:
-  # at least one keyword must be supplied
-  formatted: [keywords, not capitalized, "\\proglang{Java}"]
-  plain:     [keywords, not capitalized, Java]
+  formatted: [Minsky, banca, "\\proglang{BCRP}"]
+  plain:     [Minsky, banca, BCRP]
 preamble: >
   \usepackage{amsmath}
 output: rticles::jss_article
