@@ -4,7 +4,7 @@
 \def\filename{jss}
 \def\filedate{2013/04/06}
 %%
-%% Package `jss' to use with LaTeX2e for JSS publications (http://keigroup.wix.com/keigroup#!publicaciones/c17pr)
+%% Package `jss' to use with LaTeX2e for JSS publications (http://keigroup.wix.com/)
 %% License: GPL-2
 %% Copyright: (C) Achim Zeileis
 %% Please report errors to arturo.chian@gmail.con
@@ -227,7 +227,7 @@
     \vspace{.1\baselineskip}
     {\fontfamily{pzc} \fontsize{13}{15} \selectfont Journal of Open Economics and Financials Research}
     \hfill
-    \url{http://keigroup.wix.com/keigroup#!publicaciones/c17pr/}\\ \nopagebreak
+    \url{http://keigroup.wix.com/}\\ \nopagebreak
     published by the American Statistical Association
     \hfill
     \url{http://economia.unmsm.edu.pe/}\\[.3\baselineskip] \nopagebreak
