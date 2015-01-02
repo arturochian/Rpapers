@@ -6,7 +6,7 @@ author:
       First line
       Second line
     email: name@company.com
-    url: http://rstudio.com
+    url: http://economia.unmsm.edu.pe/
   - name: Segundo Autor
     affiliation: FCE UNMSM
 title:
